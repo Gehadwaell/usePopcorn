@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gehadwaell/usePopcorn.git/static/css/main.cecdbb3d.css",
-    "main.js": "/Gehadwaell/usePopcorn.git/static/js/main.d4239e9d.js",
-    "index.html": "/Gehadwaell/usePopcorn.git/index.html",
-    "main.cecdbb3d.css.map": "/Gehadwaell/usePopcorn.git/static/css/main.cecdbb3d.css.map",
-    "main.d4239e9d.js.map": "/Gehadwaell/usePopcorn.git/static/js/main.d4239e9d.js.map"
+    "main.css": "/usePopcorn/static/css/main.cecdbb3d.css",
+    "main.js": "/usePopcorn/static/js/main.d4239e9d.js",
+    "index.html": "/usePopcorn/index.html",
+    "main.cecdbb3d.css.map": "/usePopcorn/static/css/main.cecdbb3d.css.map",
+    "main.d4239e9d.js.map": "/usePopcorn/static/js/main.d4239e9d.js.map"
   },
   "entrypoints": [
     "static/css/main.cecdbb3d.css",
